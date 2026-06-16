@@ -18,4 +18,4 @@ This is an interactive Excel dashboard project created for gym workout and atten
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-06-17 003312.png)
+![Dashboard](Screenshot2026-06-17003312.png)
